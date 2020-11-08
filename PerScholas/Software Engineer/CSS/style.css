@@ -1,0 +1,18 @@
+h1 {text-align: center;}   
+h2 {text-align: center;}
+    body { 
+    	background-color: #A1A321; }
+    img {
+  border: 9px solid #555;
+}
+
+.div1 {
+  border: 5px outset gray;
+  background-color: powderblue;    
+  text-align: center;
+} 
+.marginauto {
+	height: 500px;
+	width: 700px;
+    margin: 2px auto 10px;
+    display: block;
